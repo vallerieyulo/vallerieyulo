@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning Java 11 and Springboot framework for a more updated technology which is commonly used in the industry.
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"  title="Linkedin" alt="Linkedin" width="30" height="30"/>&nbsp; 
-<a>https://www.linkedin.com/in/vallerieyulo/</a>
+<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"  title="Linkedin" alt="Linkedin" width="20" height="20"/>&nbsp; 
+<a>https://www.linkedin.com/in/vallerieyulo</a>
 
 ### Skills
   
