@@ -14,7 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Vallerie and based in Manila. Currently on a self-paced course in full-stack development and exploring other programming languages to acquire! ✨
+✨ My name is Vallerie and based in Manila, PH. Currently on a self-paced course in full-stack development and exploring other programming languages to learn! ✨
+
+🌱 I’m currently learning Java 11 and Springboot framework for a more updated technology which is commonly used in the industry.
+
 
 ### Skills
   
